@@ -2,3 +2,7 @@
 	path = asset-server
 	url = /Users/rik/Develop/Personal/setup/asset-server
 	branch = master
+[submodule "frontend"]
+	path = frontend
+	url = /Users/rik/Develop/Personal/tiny_modules/boilerplate
+	branch = master
