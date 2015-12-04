@@ -1,0 +1,4 @@
+[submodule "asset-server"]
+	path = asset-server
+	url = /Users/rik/Develop/Personal/setup/asset-server
+	branch = master
