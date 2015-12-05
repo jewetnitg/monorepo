@@ -4,5 +4,12 @@
 	branch = master
 [submodule "frontend"]
 	path = frontend
-	url = /Users/rik/Develop/Personal/tiny_modules/boilerplate
+url=/Users/rik/Develop/Repositories/boilerplate.git
+	branch = master
+[submodule "modules/frontend-framework"]
+	path = modules/frontend-framework
+	url = /Users/rik/Repositories/framework
+[submodule "api-server"]
+	path = api-server
+	url = /Users/rik/Repositories/example-api-server
 	branch = master
