@@ -10,3 +10,6 @@ url=/Users/rik/Develop/Repositories/boilerplate.git
 	path = api-server
 	url = /Users/rik/Repositories/example-api-server.git
 	branch = master
+[submodule "render-server"]
+	path = render-server
+	url = /Users/rik/Repositories/render-server.git
