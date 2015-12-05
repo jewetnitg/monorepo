@@ -1,6 +1,6 @@
 [submodule "asset-server"]
 	path = asset-server
-	url = /Users/rik/Develop/Personal/setup/asset-server.git
+url=https://github.com/jewetnitg/asset-server.git
 	branch = master
 [submodule "frontend"]
 	path = frontend
@@ -8,8 +8,8 @@ url=https://github.com/jewetnitg/boilerplate.git
 	branch = master
 [submodule "api-server"]
 	path = api-server
-	url = /Users/rik/Repositories/example-api-server.git
+url=https://github.com/jewetnitg/example-api-server.git
 	branch = master
 [submodule "render-server"]
 	path = render-server
-	url = /Users/rik/Repositories/render-server.git
+url=https://github.com/jewetnitg/render-server.git
