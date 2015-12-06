@@ -1,15 +1,16 @@
 [submodule "asset-server"]
 	path = asset-server
-url=https://github.com/jewetnitg/asset-server.git
+  url=https://github.com/jewetnitg/asset-server.git
 	branch = master
 [submodule "frontend"]
 	path = frontend
-url=https://github.com/jewetnitg/boilerplate.git
+  url=https://github.com/jewetnitg/boilerplate.git
 	branch = master
 [submodule "api-server"]
 	path = api-server
-url=https://github.com/jewetnitg/example-api-server.git
+  url=https://github.com/jewetnitg/example-api-server.git
 	branch = master
 [submodule "render-server"]
 	path = render-server
-url=https://github.com/jewetnitg/render-server.git
+  url=https://github.com/jewetnitg/render-server.git
+  branch = master
